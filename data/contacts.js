@@ -1,6 +1,6 @@
 /* eslint quotes: off*/
 // data generated via https://next.json-generator.com/VkQcIqAHL
-export default [
+const contacts = [
     {
         "_id": "5c75a7b05ef279a15486ff42",
         "isActive": true,
@@ -753,3 +753,7 @@ export default [
         "about": "Minim consectetur amet nisi qui ut exercitation magna sunt incididunt laborum laboris consectetur incididunt. Commodo aute reprehenderit reprehenderit do laborum consequat non minim incididunt exercitation aute. Culpa culpa ut ut exercitation sint exercitation ullamco ex excepteur dolore sunt. Occaecat ex aute consectetur enim pariatur sunt mollit exercitation ea cupidatat aute voluptate. Excepteur eu velit non ut ullamco eiusmod commodo ad eiusmod nostrud.",
         "favoriteFruit": "banana"
     }
+
+];
+
+export default contacts;
