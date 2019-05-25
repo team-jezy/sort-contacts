@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    text-decoration: underline;
+    color: green;
+}
+
+body {
+    background-color: wheat;
+}
+
+table, th, td{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+form {
+    text-align: center;
+}
