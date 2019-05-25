@@ -26,9 +26,7 @@ class App extends Component {
                 contactTable.update({ contacts: sorted });
             }
         });
-        console.log(sort);
         const sortDOM = sort.render();
-        console.log(sortDOM);
         dom.insertBefore(sortDOM, main);
 
         const contactTable = new ContactTable(props);
